@@ -44,7 +44,7 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 | :--- | :--- | :---: |
 | 03/03/2026 | Aula de Apresentação e Introdução à Gestão de Projetos, Projetos versus Operações, Stakeholders e Project Charter | [Acessar](/aulas/aula01-introducao.pdf) |
 | 10/03/2026 | Triângulo de Restrições e os Ciclos de Vida, Gestão do Escopo e as Áreas de Conhecimento PMBOK | [Acessar](/aulas/aula02-pmbok.pdf) |
-| 17/03/2026 | Agilidade: Fundamentos + Manifesto + Ágil vs Tradicional + PMO | [Acessar](#) |
+| 17/03/2026 | Agilidade: Fundamentos + Manifesto + Ágil vs Tradicional + PMO | [Acessar](/aulas/aula03-agilidade.pdf) |
 | 24/03/2026 | MARATONA DE IDEIAS: Criação de Landing Page | [Acessar](/aulas/maratona-ideias.pdf) |
 | 31/03/2026 | Aula de Revisão para a Prova 01 | [Acessar](/aulas/prova01-exemplo.pdf) |
 | **07/04/2026** | **PRIMEIRA AVALIAÇÃO (PROVA)** | - |
