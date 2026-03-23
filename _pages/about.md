@@ -26,7 +26,7 @@ Os meus principais focos de atuação envolvem a educação tecnológica, pensam
 ### Experiência Profissional
 
 * **Universidade Federal de Pernambuco (UFPE):** Coordenação de TI (Núcleo de Apoio à Tecnologia da Informação do CTG).
-* **UNINASSAU:** Docência no ensino superior nas áreas de Engenharia de Software e Gestão.
+* **UNINASSAU:** Docência no ensino superior nas áreas de Engenharia de Software e Gestão e Redes de Computadores.
 * **Projetos de Extensão Universitária:** Atuação na coordenação de laboratórios e iniciativas de inovação com impacto social (como o Laboratório de Extensão Inovadora e CInovação Social).
 
 ---
