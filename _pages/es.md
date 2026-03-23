@@ -42,20 +42,20 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 
 | Data | Tema da Aula | Material |
 | :--- | :--- | :---: |
-| 03/03/2026 | Aula de Apresentação e Introdução à Gestão de Projetos, Projetos versus Operações, Stakeholders e Project Charter | [Acessar](/aulas/aula01-introducao.pdf) |
-| 10/03/2026 | Triângulo de Restrições e os Ciclos de Vida, Gestão do Escopo e as Áreas de Conhecimento PMBOK | [Acessar](/aulas/aula02-pmbok.pdf) |
-| 17/03/2026 | Agilidade: Fundamentos + Manifesto + Ágil vs Tradicional + PMO | [Acessar](/aulas/aula03-agilidade.pdf) |
-| 24/03/2026 | MARATONA DE IDEIAS: Criação de Landing Page | [Acessar](/aulas/maratona-ideias.pdf) |
-| 31/03/2026 | Aula de Revisão para a Prova 01 | [Acessar](/aulas/prova01-exemplo.pdf) |
+| 03/03/2026 | Aula de Apresentação e Introdução à Gestão de Projetos, Projetos versus Operações, Stakeholders e Project Charter | [Acessar](/aulas/es/aula01-introducao.pdf) |
+| 10/03/2026 | Triângulo de Restrições e os Ciclos de Vida, Gestão do Escopo e as Áreas de Conhecimento PMBOK | [Acessar](/aulas/es/aula02-pmbok.pdf) |
+| 17/03/2026 | Agilidade: Fundamentos + Manifesto + Ágil vs Tradicional + PMO | [Acessar](/aulas/es/aula03-agilidade.pdf) |
+| 24/03/2026 | MARATONA DE IDEIAS: Criação de Landing Page | [Acessar](/aulas/es/maratona-ideias.pdf) |
+| 31/03/2026 | Aula de Revisão para a Prova 01 | [Acessar](/aulas/es/prova01-exemplo.pdf) |
 | **07/04/2026** | **PRIMEIRA AVALIAÇÃO (PROVA)** | - |
-| 14/04/2026 | OFICINA UBÍQUA | [Acessar](#) |
+| 14/04/2026 | OFICINA UBÍQUA | [Acessar](/aulas/es/#) |
 | *21/04/2026* | *Feriado Nacional (Tiradentes)* | - |
-| 28/04/2026 | Framework Scrum: Princípios, Papéis, Artefatos e Eventos | [Acessar](#) |
-| 05/05/2026 | Método Kanban: Princípios, Limite WIP e Gestão de Fluxo | [Acessar](#) |
-| 12/05/2026 | Fundamentos da Engenharia de Software | [Acessar](#) |
-| 19/05/2026 | Modelos RUP | [Acessar](#) |
-| 26/05/2026 | Níveis de Maturidade de Processo (CMMI, MPS.BR) | [Acessar](#) |
-| 02/06/2026 | Aula de Revisão Geral e Resolução de Exercícios | [Acessar](#) |
+| 28/04/2026 | Framework Scrum: Princípios, Papéis, Artefatos e Eventos | [Acessar](/aulas/es/#) |
+| 05/05/2026 | Método Kanban: Princípios, Limite WIP e Gestão de Fluxo | [Acessar](/aulas/es/#) |
+| 12/05/2026 | Fundamentos da Engenharia de Software | [Acessar](/aulas/es/#) |
+| 19/05/2026 | Modelos RUP | [Acessar](/aulas/es/#) |
+| 26/05/2026 | Níveis de Maturidade de Processo (CMMI, MPS.BR) | [Acessar](/aulas/es/#) |
+| 02/06/2026 | Aula de Revisão Geral e Resolução de Exercícios | [Acessar](/aulas/es/#) |
 | **09/06/2026** | **SEGUNDA AVALIAÇÃO (PROVA)** | - |
 | **16/06/2026** | **SEGUNDA CHAMADA** | - |
 | **23/06/2026** | **PROVA DE AVALIAÇÃO FINAL** | - |
