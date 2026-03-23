@@ -17,7 +17,7 @@ Este site foi criado para centralizar e facilitar o acesso aos materiais, cronog
 
 Para acessar o conteúdo da sua turma, clique no link abaixo:
 
-* **[Engenharia de Software e Gestão de Times Ágeis]({{ site.baseurl }}/disciplina/)**
+* **[Engenharia de Software e Gestão de Times Ágeis]({{ site.baseurl }}/es/)**
 * **[Redes de Computadores - Turma 3A e 3B]({{ site.baseurl }}/redes/)**
 
 <br>

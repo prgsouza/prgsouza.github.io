@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Engenharia de Software e Gestão de Times Ágeis"
-permalink: /disciplina/
+permalink: /es/
 ---
 
 **Instituição:** UNINASSAU Campus Boa Viagem  
