@@ -9,7 +9,7 @@ permalink: /redes/
 **Carga Horária:** 60h (40h Teórica Presencial e 20h Teórica EaD)  
 **Horário:** Terças-feiras, 18:00 às 20:00 (Turma 3A), 20:00 às 22:00 (Turma 3B) | Sábados (AVA)  
 **Professor:** Pedro Rodolfo Gomes de Souza  
-**Contato:** prgsouza3@gmail.com  
+**Contato:** eu@prgsouza.com.br
 
 ---
 

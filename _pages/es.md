@@ -9,7 +9,7 @@ permalink: /es/
 **Carga Horária:** 80h (40h Teórica e 40h Prática)  
 **Horário:** Terças-feiras, 07:00 às 10:00  
 **Professor:** Pedro Rodolfo Gomes de Souza  
-**Contato:** prgsouza3@gmail.com  
+**Contato:** eu@prgsouza.com.br 
 
 ---
 
