@@ -63,7 +63,7 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 | 18/04/2026 | Aula no AVA | - |
 | 21/04/2026 | Camadas de rede e transporte | [Acessar](#) |
 | 25/04/2026 | Aula no AVA | - |
-| 28/04/2026 | Maratona de Ideias | [Acessar](aulas/redes/maratona-ideias.pdf) |
+| 28/04/2026 | Aula Prática - Laboratório | [Acessar](#) |
 | 02/05/2026 | Aula no AVA | - |
 | 05/05/2026 | Camada de rede, TCP/IP, IP | [Acessar](#) |
 | 09/05/2026 | Aula no AVA | - |
