@@ -41,21 +41,21 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 
 | Data | Tema da Aula | Material |
 | :--- | :--- | :---: |
-| 10/02/2026 | Aula Inaugural | [Acessar](aulas/redes/aula01-pad.pdf) |
+| 10/02/2026 | Aula Inaugural | [Acessar](/aulas/redes/aula01-pad.pdf) |
 | 14/02/2026 | Introdução a Redes de Computadores (AVA) | - |
-| 17/02/2026 | Princípios e fundamentos de comunicação de redes | [Acessar](aulas/redes/aula02-fundamentos.pdf) |
+| 17/02/2026 | Princípios e fundamentos de comunicação de redes | [Acessar](/aulas/redes/aula02-fundamentos.pdf) |
 | 21/02/2026 | Evolução dos Sistemas Computacionais (AVA) | - |
-| 24/02/2026 | Comunicação de dados e seus 5 elementos | [Acessar](aulas/redes/aula03-topologia.pdf) |
+| 24/02/2026 | Comunicação de dados e seus 5 elementos | [Acessar](/aulas/redes/aula03-topologia.pdf) |
 | 28/02/2026 | Aplicações empresariais (CRM, ERP, EAD, etc.) (AVA) | - |
-| 03/03/2026 | Impacto da IoT nas redes | [Acessar](aulas/redes/aula03-topologia.pdf) |
+| 03/03/2026 | Impacto da IoT nas redes | [Acessar](/aulas/redes/aula03-topologia.pdf) |
 | 07/03/2026 | Redes LAN, MAN, WAN (AVA) | - |
-| 10/03/2026 | Redes geograficamente distribuídas | [Acessar](aulas/redes/aula04-camadafisica.pdf) |
+| 10/03/2026 | Redes geograficamente distribuídas | [Acessar](/aulas/redes/aula04-camadafisica.pdf) |
 | 14/03/2026 | Topologias de redes (AVA) | - |
 | 17/03/2026 | TCP/IP x OSI + modelo OSI | [Acessar](aulas/redes/aula05-camadaenlace.html) |
 | 21/03/2026 | TCP/IP x OSI + modelo OSI (AVA) | - |
-| 24/03/2026 | Camada de enlace + protocolos + IEEE 802 | [Acessar](aulas/redes/aula05-camadaenlace.pdf) |
+| 24/03/2026 | Camada de enlace + protocolos + IEEE 802 | [Acessar](/aulas/redes/aula05-camadaenlace.pdf) |
 | 28/03/2026 | Aula no AVA | - |
-| 31/03/2026 | Revisão para a Primeira Avaliação | [Acessar](aulas/redes/prova01-exemplo.pdf) |
+| 31/03/2026 | Revisão para a Primeira Avaliação | [Acessar](#) |
 | 04/04/2026 | Aula no AVA | - |
 | **07/04/2026** | **PRIMEIRA AVALIAÇÃO (PROVA)** | - |
 | 11/04/2026 | Aula no AVA | - |
