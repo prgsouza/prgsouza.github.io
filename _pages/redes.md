@@ -55,7 +55,7 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 | 21/03/2026 | TCP/IP x OSI + modelo OSI (AVA) | - |
 | 24/03/2026 | Camada de enlace + protocolos + IEEE 802 | [Acessar](/aulas/redes/aula05-camadaenlace.pdf) |
 | 28/03/2026 | Aula no AVA | - |
-| 31/03/2026 | Revisão para a Primeira Avaliação | [Acessar](#) |
+| 31/03/2026 | Revisão para a Primeira Avaliação | [Acessar](/aulas/redes/prova01-exemplo.pdf) |
 | 04/04/2026 | Aula no AVA | - |
 | **07/04/2026** | **PRIMEIRA AVALIAÇÃO (PROVA)** | - |
 | 11/04/2026 | Aula no AVA | - |
