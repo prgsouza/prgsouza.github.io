@@ -47,11 +47,11 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 | 17/03/2026 | Agilidade: Fundamentos + Manifesto + Ágil vs Tradicional + PMO | [Acessar](/aulas/es/aula03-agilidade.pdf) |
 | 24/03/2026 | MARATONA DE IDEIAS: Criação de Landing Page | [Acessar](/aulas/es/maratona-ideias.pdf) |
 | 31/03/2026 | Aula de Revisão para a Prova 01 | [Acessar](/aulas/es/prova01-exemplo.pdf) |
-| **07/04/2026** | **PRIMEIRA AVALIAÇÃO (PROVA)** | - |
-| 14/04/2026 | OFICINA UBÍQUA | [Acessar](#) |
+| 07/04/2026 | Aula cancelada pela Uninassau (Chuva) | - |
+| **14/04/2026** | ** PRIMEIRA AVALIAÇÃO ** | [Acessar](#) |
 | *21/04/2026* | *Feriado Nacional (Tiradentes)* | - |
-| 28/04/2026 | Framework Scrum: Princípios, Papéis, Artefatos e Eventos | [Acessar](#) |
-| 05/05/2026 | Método Kanban: Princípios, Limite WIP e Gestão de Fluxo | [Acessar](#) |
+| 28/04/2026 | Gestão de Projetos - Gestão de Crise | [Acessar](https://www.netflix.com/title/262866) |
+| 05/05/2026 | Fundamentos de Engenharia de Software | [Acessar](#) |
 | 12/05/2026 | Fundamentos da Engenharia de Software | [Acessar](#) |
 | 19/05/2026 | Modelos RUP | [Acessar](/aulas/es/#) |
 | 26/05/2026 | Níveis de Maturidade de Processo (CMMI, MPS.BR) | [Acessar](#) |

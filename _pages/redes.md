@@ -7,7 +7,7 @@ permalink: /redes/
 **Instituição:** UNINASSAU Campus Boa Viagem  
 **Curso:** Análise e Desenvolvimento de Sistemas (3º Período)  
 **Carga Horária:** 60h (40h Teórica Presencial e 20h Teórica EaD)  
-**Horário:** Terças-feiras, 18:00 às 20:00 (Turma 3A), 20:00 às 22:00 (Turma 3B) | Sábados (AVA)  
+**Horário:** Terças-feiras, 18:00 às 20:00 (Turma 3A), 20:00 às 22:00 (Turma 3B)
 **Professor:** Pedro Rodolfo Gomes de Souza  
 **Contato:** eu@prgsouza.com.br
 
@@ -42,43 +42,23 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 | Data | Tema da Aula | Material |
 | :--- | :--- | :---: |
 | 10/02/2026 | Aula Inaugural | [Acessar](/aulas/redes/aula01-pad.pdf) |
-| 14/02/2026 | Introdução a Redes de Computadores (AVA) | - |
 | 17/02/2026 | Princípios e fundamentos de comunicação de redes | [Acessar](/aulas/redes/aula02-fundamentos.pdf) |
-| 21/02/2026 | Evolução dos Sistemas Computacionais (AVA) | - |
 | 24/02/2026 | Comunicação de dados e seus 5 elementos | [Acessar](/aulas/redes/aula03-topologia.pdf) |
-| 28/02/2026 | Aplicações empresariais (CRM, ERP, EAD, etc.) (AVA) | - |
 | 03/03/2026 | Impacto da IoT nas redes | [Acessar](/aulas/redes/aula03-topologia.pdf) |
-| 07/03/2026 | Redes LAN, MAN, WAN (AVA) | - |
 | 10/03/2026 | Redes geograficamente distribuídas | [Acessar](/aulas/redes/aula04-camadafisica.pdf) |
-| 14/03/2026 | Topologias de redes (AVA) | - |
 | 17/03/2026 | TCP/IP x OSI + modelo OSI | [Acessar](/aulas/redes/aula05-camadaenlace.html) |
-| 21/03/2026 | TCP/IP x OSI + modelo OSI (AVA) | - |
 | 24/03/2026 | Camada de enlace + protocolos + IEEE 802 | [Acessar](/aulas/redes/aula05-camadaenlace.pdf) |
-| 28/03/2026 | Aula no AVA | - |
 | 31/03/2026 | Revisão para a Primeira Avaliação | [Acessar](/aulas/redes/prova01-exemplo.pdf) |
-| 04/04/2026 | Aula no AVA | - |
-| **07/04/2026** | **PRIMEIRA AVALIAÇÃO (PROVA)** | - |
-| 11/04/2026 | Aula no AVA | - |
-| 14/04/2026 | Oficina Ubíqua | [Acessar](#) |
-| 18/04/2026 | Aula no AVA | - |
-| 21/04/2026 | Camadas de rede e transporte | [Acessar](#) |
-| 25/04/2026 | Aula no AVA | - |
-| 28/04/2026 | Aula Prática - Laboratório | [Acessar](#) |
-| 02/05/2026 | Aula no AVA | - |
+| 07/04/2026 | Aula cancelada pela Uninassau (Chuva) | - |
+| **14/04/2026** | **PRIMEIRA AVALIAÇÃO (PROVA)** | - |
+| *21/04/2026* | *Feriado Nacional (Tiradentes)* | - |
+| 28/04/2026 | Aula Prática - Cisco Packet Tracer | [Acessar](#) |
 | 05/05/2026 | Camada de rede, TCP/IP, IP | [Acessar](#) |
-| 09/05/2026 | Aula no AVA | - |
 | 12/05/2026 | IPv4, IPv6, NAT, roteamento | [Acessar](#) |
-| 16/05/2026 | Aula no AVA | - |
-| 19/05/2026 | | [Acessar](#) |
-| 23/05/2026 | Aula no AVA | - |
+| 19/05/2026 | Aula Prática - Laboratório | [Acessar](#) |
 | 26/05/2026 |  TCP, UDP, camada de transporte | [Acessar](#) |
-| 30/05/2026 | Aula no AVA | - |
 | 02/06/2026 | Camada de aplicação + cabeamento estruturado | [Acessar](#) |
-| 06/06/2026 | Aula no AVA | - |
 | **09/06/2026** | **SEGUNDA AVALIAÇÃO (PROVA)** | - |
-| 13/06/2026 | Aula no AVA | - |
-| 16/06/2026 | Serviços e protocolos de aplicação| [Acessar](#) |
-| 20/06/2026 | Aula no AVA | - |
+| **16/06/2026** | **SEGUNDA CHAMADA** | - |
 | **23/06/2026** | **PROVA DE AVALIAÇÃO FINAL** | - |
-| 27/06/2026 | Aula no AVA | - |
 | 30/06/2026 | Encerramento do semestre | - |
