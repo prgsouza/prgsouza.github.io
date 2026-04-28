@@ -52,12 +52,12 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 | 07/04/2026 | Aula cancelada pela Uninassau (Chuva) | - |
 | **14/04/2026** | **PRIMEIRA AVALIAÇÃO (PROVA)** | - |
 | *21/04/2026* | *Feriado Nacional (Tiradentes)* | - |
-| 28/04/2026 | Aula Prática - Cisco Packet Tracer | [Acessar](#) |
-| 05/05/2026 | Camada de rede, TCP/IP, IP | [Acessar](#) |
-| 12/05/2026 | IPv4, IPv6, NAT, roteamento | [Acessar](#) |
-| 19/05/2026 | Aula Prática - Laboratório | [Acessar](#) |
-| 26/05/2026 |  TCP, UDP, camada de transporte | [Acessar](#) |
-| 02/06/2026 | Camada de aplicação + cabeamento estruturado | [Acessar](#) |
+| 28/04/2026 | Aula Prática - Cisco Packet Tracer | [Acessar](/aulas/redes/aula06-packettracer.pdf) |
+| 05/05/2026 | Camada de Aplicação | [Acessar](/aulas/redes/aula07-camadaaplicacao.pdf) |
+| 12/05/2026 | Camada de Transporte | [Acessar](#) |
+| 19/05/2026 | Camada de Rede - Plano de Controle | [Acessar](#) |
+| 26/05/2026 | Camada de Rede - Plano de Dados | [Acessar](#) |
+| 02/06/2026 | Revisão para a Segunda Avaliação | [Acessar](#) |
 | **09/06/2026** | **SEGUNDA AVALIAÇÃO (PROVA)** | - |
 | **16/06/2026** | **SEGUNDA CHAMADA** | - |
 | **23/06/2026** | **PROVA DE AVALIAÇÃO FINAL** | - |
