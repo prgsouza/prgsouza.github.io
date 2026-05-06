@@ -35,8 +35,12 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 * **Reprovação Direta:** Notas abaixo de 4,0 causam reprovação automática.
 * **Aprovação Pós-Final:** Nota Final maior ou igual a 5,0 garante a aprovação. Nota Final abaixo de 5,0 causa reprovação.
 
-** O material da aula de Cisco Packet Tracer foi concebido pelo Prof Dr Kelvin Lopes Dias, do Centro de Informática da Universidade Federal de Pernambuco, que pode ser consultados em: https://www.cin.ufpe.br/~kld/IF975-2019.2.html **
-** O material da disciplina a partir da Aula de Camada de Aplicação são totalmente baseados nos slides dos autores do livro adotado, Redes de Computadores: Uma abordagem Top-Down, do Kurose e Ross, que podem ser consultados em: https://gaia.cs.umass.edu/kurose_ross/ppt.php **
+
+
+## ⚠️ Atenção
+* **O material da aula de Cisco Packet Tracer foi concebido pelo Prof Dr Kelvin Lopes Dias, do Centro de Informática da Universidade Federal de Pernambuco, que pode ser consultados em: https://www.cin.ufpe.br/~kld/IF975-2019.2.html** 
+* **O material da disciplina a partir da Aula de Camada de Aplicação são totalmente baseados nos slides dos autores do livro adotado, Redes de Computadores: Uma abordagem Top-Down, do Kurose e Ross, que podem ser consultados em: https://gaia.cs.umass.edu/kurose_ross/ppt.php**
+
 
 ---
 
