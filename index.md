@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Prof. Pedro Rodolfo."
+title: "Prof. Pedro de Souza."
 permalink: /
 ---
 
