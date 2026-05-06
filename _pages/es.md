@@ -36,6 +36,9 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 * **Reprovação Direta:** Notas abaixo de 4,0 causam reprovação automática.
 * **Aprovação Pós-Final:** Nota Final maior ou igual a 5,0 garante a aprovação. Nota Final abaixo de 5,0 causa reprovação.
 
+
+** O material da disciplina a partir da Aula de Introdução a Engenharia de Software são totalmente baseados nas aulas do Prof. Dr. Eduardo Figueiredo, da sua disciplina de Engenharia de Software do Departamento de Ciência da Computação da Universidade Federal de Minas Gerais (UFMG), que podem ser consultados em: www.dcc.ufmg.br/~figueiredo **
+
 ---
 
 ## 📅 Calendário de Aulas (2026.1)
@@ -52,7 +55,7 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 | *21/04/2026* | *Feriado Nacional (Tiradentes)* | - |
 | 28/04/2026 | Gestão de Projetos - Gestão de Crise | [Acessar](https://www.netflix.com/title/262866) |
 | 05/05/2026 | Introdução à Engenharia de Software e Processos de Software | [Acessar](/aulas/es/aula04-introes.pdf) |
-| 12/05/2026 | Fundamentos da Engenharia de Software | [Acessar](#) |
+| 12/05/2026 | Fundamentos da Engenharia de Software | [Acessar](/aulas/es/aula05-fundamentoses.pdf) |
 | 19/05/2026 | Modelos RUP | [Acessar](/aulas/es/#) |
 | 26/05/2026 | Níveis de Maturidade de Processo (CMMI, MPS.BR) | [Acessar](#) |
 | 02/06/2026 | Aula de Revisão Geral e Resolução de Exercícios | [Acessar](#) |
