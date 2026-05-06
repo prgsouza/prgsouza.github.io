@@ -37,7 +37,7 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 * **Aprovação Pós-Final:** Nota Final maior ou igual a 5,0 garante a aprovação. Nota Final abaixo de 5,0 causa reprovação.
 
 ## ⚠️ Atenção
-* ** O material da disciplina a partir da Aula de Introdução a Engenharia de Software são totalmente baseados nas aulas do Prof. Dr. Eduardo Figueiredo, da sua disciplina de Engenharia de Software do Departamento de Ciência da Computação da Universidade Federal de Minas Gerais (UFMG), que podem ser consultados em: www.dcc.ufmg.br/~figueiredo ** 
+* O material da disciplina a partir da Aula de Introdução a Engenharia de Software são totalmente baseados nas aulas do **Prof. Dr. Eduardo Figueiredo**, da sua disciplina de Engenharia de Software do Departamento de Ciência da Computação da Universidade Federal de Minas Gerais (UFMG), que podem ser consultados em: www.dcc.ufmg.br/~figueiredo 
 
 ---
 

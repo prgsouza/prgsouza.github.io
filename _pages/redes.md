@@ -38,8 +38,8 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 
 
 ## ⚠️ Atenção
-* **O material da aula de Cisco Packet Tracer foi concebido pelo Prof Dr Kelvin Lopes Dias, do Centro de Informática da Universidade Federal de Pernambuco, que pode ser consultados em: https://www.cin.ufpe.br/~kld/IF975-2019.2.html** 
-* **O material da disciplina a partir da Aula de Camada de Aplicação são totalmente baseados nos slides dos autores do livro adotado, Redes de Computadores: Uma abordagem Top-Down, do Kurose e Ross, que podem ser consultados em: https://gaia.cs.umass.edu/kurose_ross/ppt.php**
+* O material da aula de Cisco Packet Tracer foi concebido pelo **Prof. Dr. Kelvin Dias**, do Centro de Informática da Universidade Federal de Pernambuco, que pode ser consultados em: https://www.cin.ufpe.br/~kld/IF975-2019.2.html 
+* O material da disciplina a partir da Aula de Camada de Aplicação são totalmente baseados nos slides dos autores do livro adotado, **Redes de Computadores: Uma abordagem Top-Down, do Kurose e Ross**, que podem ser consultados em: https://gaia.cs.umass.edu/kurose_ross/ppt.php
 
 
 ---
