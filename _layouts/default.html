@@ -27,19 +27,24 @@
               <p class="site-description">{{ site.description }}</p> 
             </div>
 
-            <nav>
-              <a href="{{ site.baseurl }}/">Inicial</a>
-              
-              <div class="dropdown">
-                <button class="dropbtn">Disciplinas ▼</button>
-                <div class="dropdown-content">
-                  <a href="{{ site.baseurl }}/es/">Engenharia de Software</a>
-                  <a href="{{ site.baseurl }}/redes/">Redes de Computadores</a>
-                </div>
-              </div>
-              <a href="{{ site.baseurl }}/search">Pesquisa</a>
-              <a href="{{ site.baseurl }}/about">Curriculo CV</a>
-            </nav>
+<nav>
+  <a href="{{ site.baseurl }}/">Inicial</a>
+  
+  <div class="dropdown">
+    <button class="dropbtn">Aulas ▼</button>
+    <div class="dropdown-content">
+      {% for instituicao in site.aulas_menu %}
+        <div class="dropdown-header">{{ instituicao.universidade }}</div>
+        {% for disciplina in instituicao.disciplinas %}
+          <a href="{{ site.baseurl }}{{ disciplina.url }}">{{ disciplina.nome }}</a>
+        {% endfor %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <a href="{{ site.baseurl }}/search">Pesquisa</a>
+  <a href="{{ site.baseurl }}/about">Curriculo CV</a>
+</nav>
             
           </header>
         </div>
