@@ -31,11 +31,11 @@
   <a href="{{ site.baseurl }}/">Inicial</a>
   
   <div class="dropdown">
-    <button class="dropbtn">Disciplinas ▼</button>
+    <button class="dropbtn">Disciplinas &#9660;</button>
     <div class="dropdown-content">
       {% for univ in site.menu_universidades %}
         <div class="nested-dropdown">
-          <a href="#" class="nested-dropbtn">{{ univ.nome }} &raquo;</a>
+          <a href="javascript:void(0);" class="nested-dropbtn">{{ univ.nome }} <span class="arrow">&#9656;</span></a>
           <div class="nested-content">
             {% for disc in univ.disciplinas %}
               <a href="{{ site.baseurl }}{{ disc.url }}">{{ disc.nome }}</a>
