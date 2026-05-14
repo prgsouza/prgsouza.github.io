@@ -1073,4 +1073,49 @@ Modules - reusable parts of our design
     position: absolute;
     width: 100%;
   }
+
+	/* Estilo para Menu Aninhado (Segundo Nível) */
+.nested-dropdown {
+  position: relative;
+}
+
+.nested-content {
+  display: none;
+  position: absolute;
+  left: 100%; /* Faz o menu aparecer à direita */
+  top: 0;
+  background-color: #ffffff;
+  min-width: 200px;
+  box-shadow: 8px 8px 16px 0px rgba(0,0,0,0.1);
+  border-radius: 0 4px 4px 4px;
+  z-index: 101;
+}
+
+/* Mostra o segundo nível ao passar o mouse na universidade */
+.nested-dropdown:hover .nested-content {
+  display: block;
+}
+
+.nested-dropbtn {
+  display: block;
+  padding: 12px 16px;
+  color: #333;
+  text-decoration: none;
+  border-bottom: 1px solid #eee;
+}
+
+.nested-dropbtn:hover {
+  background-color: #f5f5f5;
+  color: #4183C4;
+}
+
+/* Ajuste para dispositivos móveis */
+@include mobile {
+  .nested-content {
+    position: static; /* No mobile, ele expande para baixo em vez de para o lado */
+    box-shadow: none;
+    padding-left: 20px;
+    background-color: #fafafa;
+  }
+}
 }
