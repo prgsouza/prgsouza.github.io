@@ -488,5 +488,55 @@ nav {
   .arrow {
     display: none;
   }
+  
+  /* Estilos para a Página 404 Divertida */
+.error-container {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.error-code {
+  font-size: 120px;
+  font-weight: bold;
+  color: #4183C4;
+  text-shadow: 4px 4px 0px #eee;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+
+.error-msg {
+  font-size: 22px;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.tech-joke {
+  background: #282a36; /* Cor estilo Darkula */
+  color: #50fa7b;
+  padding: 20px;
+  border-radius: 8px;
+  display: inline-block;
+  text-align: left;
+  margin-bottom: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  max-width: 100%;
+}
+
+.btn-back {
+  display: inline-block;
+  padding: 15px 30px;
+  background-color: #4183C4;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: bold;
+  transition: transform 0.2s, background-color 0.2s;
+}
+
+.btn-back:hover {
+  background-color: #333;
+  transform: scale(1.05);
+}
 }
 /* ========================================================================== */

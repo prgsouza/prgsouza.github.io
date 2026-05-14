@@ -32,7 +32,7 @@ menu_universidades:
   - nome: UNINASSAU
     disciplinas:
       - nome: Engenharia de Software
-        url: /disciplina/
+        url: /es/
       - nome: Redes de Computadores
         url: /redes/
 
