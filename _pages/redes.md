@@ -63,8 +63,8 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 | 28/04/2026 | Aula Prática - Cisco Packet Tracer | [Acessar](/aulas/redes/aula06-packettracer.pdf) |
 | 05/05/2026 | Camada de Aplicação | [Acessar](/aulas/redes/aula07-camadaaplicacao.pdf) |
 | 12/05/2026 | Camada de Transporte | [Acessar](/aulas/redes/aula08-camadatransporte.pdf) |
-| 19/05/2026 | Camada de Rede - Plano de Controle | [Acessar](#) |
-| 26/05/2026 | Camada de Rede - Plano de Dados | [Acessar](#) |
+| 19/05/2026 | Camada de Rede | [Acessar](/aulas/redes/aula09-camadarede.pdf) |
+| 26/05/2026 | Redes sem Fio | [Acessar](/aulas/redes/aula10-semfio.pdf) |
 | 02/06/2026 | Revisão para a Segunda Avaliação | [Acessar](#) |
 | **09/06/2026** | **SEGUNDA AVALIAÇÃO (PROVA)** | - |
 | **16/06/2026** | **SEGUNDA CHAMADA** | - |

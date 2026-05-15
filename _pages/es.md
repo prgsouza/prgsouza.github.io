@@ -56,8 +56,8 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 | 28/04/2026 | Gestão de Projetos - Gestão de Crise | [Acessar](https://www.netflix.com/title/262866) |
 | 05/05/2026 | Introdução à Engenharia de Software e Processos de Software | [Acessar](/aulas/es/aula04-introes.pdf) |
 | 12/05/2026 | Fundamentos da Engenharia de Software | [Acessar](/aulas/es/aula05-fundamentoses.pdf) |
-| 19/05/2026 | Modelos RUP | [Acessar](/aulas/es/#) |
-| 26/05/2026 | Níveis de Maturidade de Processo (CMMI, MPS.BR) | [Acessar](#) |
+| 19/05/2026 | Modelos RUP | [Acessar](/aulas/es/aula06-rup.pdf) |
+| 26/05/2026 | Níveis de Maturidade de Processo (CMMI, MPS.BR) | [Acessar](/aulas/es/aula07-cmmimps.pdf) |
 | 02/06/2026 | Aula de Revisão Geral e Resolução de Exercícios | [Acessar](#) |
 | **09/06/2026** | **SEGUNDA AVALIAÇÃO (PROVA)** | - |
 | **16/06/2026** | **SEGUNDA CHAMADA** | - |
