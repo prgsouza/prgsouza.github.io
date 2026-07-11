@@ -20,7 +20,7 @@ Este site foi criado para centralizar e facilitar o acesso aos materiais, cronog
 
 ### Semestres Anteriores (2026.1)
 * [Engenharia de Software](/es/)
-* [Redes](/redes/)
+* [Redes de Computadores](/redes/)
 
 
 <br>
