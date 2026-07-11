@@ -13,12 +13,15 @@ Este site foi criado para centralizar e facilitar o acesso aos materiais, cronog
 
 ---
 
-### 📚 Turmas em Andamento (2026.1)
+## Disciplinas Lecionadas
 
-Para acessar o conteúdo da sua turma, clique no link abaixo:
+### Semestre Atual (2026.2)
+* [Laboratório de Empreendimentos Inovadores](/lei/)
 
-* **[Engenharia de Software e Gestão de Times Ágeis - UNINASSAU]({{ site.baseurl }}/es/)**
-* **[Redes de Computadores - Turma 3A e 3B - UNINASSAU]({{ site.baseurl }}/redes/)**
+### Semestres Anteriores (2026.1)
+* [Engenharia de Software](/es/)
+* [Redes](/redes/)
+
 
 <br>
 Bons estudos e um excelente semestre a todos!
