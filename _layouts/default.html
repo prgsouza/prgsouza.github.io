@@ -30,21 +30,21 @@
 <nav>
   <a href="{{ site.baseurl }}/">Inicial</a>
   
-  <div class="dropdown">
-    <button class="dropbtn">Disciplinas &#9660;</button>
-    <div class="dropdown-content">
-      {% for univ in site.menu_universidades %}
-        <div class="nested-dropdown">
-          <a href="javascript:void(0);" class="nested-dropbtn">{{ univ.nome }} <span class="arrow">&#9656;</span></a>
-          <div class="nested-content">
-            {% for disc in univ.disciplinas %}
-              <a href="{{ site.baseurl }}{{ disc.url }}">{{ disc.nome }}</a>
-            {% endfor %}
-          </div>
+<div class="dropdown">
+  <button class="dropbtn">Disciplinas &#9660;</button>
+  <div class="dropdown-content">
+    {% for semestre in site.menu_semestres %}
+      <div class="nested-dropdown">
+        <a href="javascript:void(0);" class="nested-dropbtn">{{ semestre.nome }} <span class="arrow">&#9656;</span></a>
+        <div class="nested-content">
+          {% for disc in semestre.disciplinas %}
+            <a href="{{ site.baseurl }}{{ disc.url }}">{{ disc.nome }}</a>
+          {% endfor %}
         </div>
-      {% endfor %}
-    </div>
+      </div>
+    {% endfor %}
   </div>
+</div>
 
   <a href="{{ site.baseurl }}/search">Pesquisa</a>
   <a href="{{ site.baseurl }}/about">Curriculo CV</a>
