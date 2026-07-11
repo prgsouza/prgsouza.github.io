@@ -21,21 +21,23 @@ avatar: /images/logo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: prgsouza3@gmail.com
+  email: eu@prgsouza.com.br
   github: prgsouza
   instagram: prgsouza3
   linkedin: prgsouza3
   rss: rss
 
-# Lista de Universidades e Disciplinas
-menu_universidades:
-  - nome: UNINASSAU
+menu_semestres:
+  - nome: "2026.2"
     disciplinas:
-      - nome: Engenharia de Software
-        url: /es/
-      - nome: Redes de Computadores
-        url: /redes/
-
+      - nome: "Lab. de Empreendimentos Inovadores"
+        url: "/lei/"
+  - nome: "2026.1"
+    disciplinas:
+      - nome: "Engenharia de Software"
+        url: "/es/"
+      - nome: "Redes"
+        url: "/redes/"
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: 
