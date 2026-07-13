@@ -14,7 +14,7 @@ Os meus principais focos de atuação envolvem a educação tecnológica, pensam
 
 ---
 
-### Formação Académica
+### Formação Acadêmica
 
 * **Mestrado Profissional em Ciências da Computação** (UFPE).
 * **Especialização em Redes de Computadores** (Faculdade Focus).
@@ -26,19 +26,18 @@ Os meus principais focos de atuação envolvem a educação tecnológica, pensam
 ### Experiência Profissional
 
 * **Universidade Federal de Pernambuco (UFPE):** Coordenação de TI (Núcleo de Apoio à Tecnologia da Informação do CTG).
-* **UNINASSAU:** Docência no ensino superior nas áreas de Engenharia de Software e Gestão e Redes de Computadores.
+* **UNINASSAU:** Docência no ensino superior nas áreas de Engenharia de Software e Gestão, Redes de Computadores e Laboratório de Empreendimentos Inovadores.
 * **Projetos de Extensão Universitária:** Atuação na coordenação de laboratórios e iniciativas de inovação com impacto social (como o Laboratório de Extensão Inovadora do Centro de Informática da UFPE).
 
 ---
 
-### Prémios e Certificações
+### Prêmios e Certificações
 
 * **Láurea Acadêmica** (UFPE).
 * **Certificação Profissional de Suporte de TI** (Google / Coursera).
-* **Certificação DevOps Essentials** (DEPC / CertiProf).
 
 ---
 
-### Contactos
+### Contatos
 * **E-mail:** eu[arroba]prgsouza[ponto]com[ponto]br
 * **Lattes:** [Acessar o Currículo Completo](https://lattes.cnpq.br/2265855538164590)
