@@ -47,7 +47,7 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 | 26/08/2026 | Análise de Viabilidade | [Acessar](/aulas/lei/aula03-viabilidade.pdf) |
 | 02/09/2026 | Plano de Gerenciamento de Escopo | [Acessar](/aulas/lei/aula04-escopo.pdf) |
 | 09/09/2026 | Plano de Gerenciamento do Tempo | [Acessar](/aulas/lei/aula05-tempo.pdf) |
-| 16/09/2026 | Plano de Gerenciamento de Custos  [Acessar](/aulas/lei/aula06-custos.pdf) |
+| 16/09/2026 | Plano de Gerenciamento de Custos | [Acessar](/aulas/lei/aula06-custos.pdf) |
 | 23/09/2026 | Plano de Gerenciamento da Qualidade | [Acessar](/aulas/lei/aula07-qualidade.pdf) |
 | 30/09/2026 | Revisão para Primeira Avaliação  | [Acessar](/aulas/lei/revisao-prova01.pdf) |
 | **07/10/2026** | **PRIMEIRA AVALIAÇÃO** (Unidades I e II) | - |
