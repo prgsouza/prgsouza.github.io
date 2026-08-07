@@ -43,20 +43,20 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 | Data | Tema da Aula | Material |
 | :--- | :--- | :---: |
 | 12/08/2026 | Apresentação da Disciplina; Introdução à Fábrica de Software | [Acessar](/aulas/lei/aula01-introducao.pdf) |
-| 19/08/2026 | Análise Estratégica | [Acessar](/aulas/lei/aula02-analise-estrategica.pdf) |
-| 26/08/2026 | Análise de Viabilidade | [Acessar](/aulas/lei/aula03-viabilidade.pdf) |
-| 02/09/2026 | Plano de Gerenciamento de Escopo | [Acessar](/aulas/lei/aula04-escopo.pdf) |
-| 09/09/2026 | Plano de Gerenciamento do Tempo | [Acessar](/aulas/lei/aula05-tempo.pdf) |
-| 16/09/2026 | Plano de Gerenciamento de Custos | [Acessar](/aulas/lei/aula06-custos.pdf) |
-| 23/09/2026 | Plano de Gerenciamento da Qualidade | [Acessar](/aulas/lei/aula07-qualidade.pdf) |
+| 19/08/2026 | Análise Estratégica e Análise de Viabilidade | [Acessar](/aulas/lei/aula02-analise) |
+| 26/08/2026 | Introdução ao PMBOK | [Acessar](/aulas/lei/aula03-pmbok.pdf) |
+| 02/09/2026 | Plano de Gerenciamento de Escopo | [Acessar](/aulas/lei/aula03-escopo.pdf) |
+| 09/09/2026 | Plano de Gerenciamento do Tempo | [Acessar](/aulas/lei/aula04-tempo.pdf) |
+| 16/09/2026 | Plano de Gerenciamento de Custos | [Acessar](/aulas/lei/aula05-custos.pdf) |
+| 23/09/2026 | Plano de Gerenciamento da Qualidade | [Acessar](/aulas/lei/aula06-qualidade.pdf) |
 | 30/09/2026 | Revisão para Primeira Avaliação  | [Acessar](/aulas/lei/revisao-prova01.pdf) |
 | **07/10/2026** | **PRIMEIRA AVALIAÇÃO** (Unidades I e II) | - |
-| 14/10/2026 | Plano de Gerenciamento de Recursos Humanos | [Acessar](/aulas/lei/aula09-rh.pdf) |
-| 21/10/2026 | Plano de Gerenciamento das Comunicações | [Acessar](/aulas/lei/aula10-comunicacoes.pdf) |
-| 28/10/2026 | Plano de Gerenciamento de Riscos | [Acessar](/aulas/lei/aula11-riscos.pdf) |
-| 04/11/2026 | Plano de Gerenciamento de Aquisições | [Acessar](/aulas/lei/aula12-aquisicoes.pdf) |
-| 11/11/2026 | Aplicação em Projeto Prático: Conceitos e estudos de caso históricos de Fábrica de Software | [Acessar](/aulas/lei/aula13-integracao-final.pdf) |
-| 18/11/2026 | Aplicação em Projeto Prático : Frameworks e modelos de avaliação de fábricas de software | [Acessar](/aulas/lei/aula14-simulacao.pdf) |
+| 14/10/2026 | Plano de Gerenciamento de Recursos Humanos | [Acessar](/aulas/lei/aula07-rh.pdf) |
+| 21/10/2026 | Plano de Gerenciamento das Comunicações | [Acessar](/aulas/lei/aula08-comunicacoes.pdf) |
+| 28/10/2026 | Plano de Gerenciamento de Riscos | [Acessar](/aulas/lei/aula09-riscos.pdf) |
+| 04/11/2026 | Plano de Gerenciamento de Aquisições | [Acessar](/aulas/lei/aula10-aquisicoes.pdf) |
+| 11/11/2026 | Aplicação em Projeto Prático: Conceitos e estudos de caso históricos de Fábrica de Software | [Acessar](/aulas/lei/aula11-integracao-final.pdf) |
+| 18/11/2026 | Aplicação em Projeto Prático : Frameworks e modelos de avaliação de fábricas de software | [Acessar](/aulas/lei/aula12-simulacao.pdf) |
 | 25/11/2026 | Revisão para Segunda Avaliação | [Acessar](/aulas/lei/revisao-prova02.pdf) |
 | **02/12/2026** | **2ª AVALIAÇÃO DO SEMESTRE** (Todo assunto) | - |
 | **16/12/2026** | **2ª CHAMADA** (Todo assunto) | - |
