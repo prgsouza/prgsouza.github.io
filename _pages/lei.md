@@ -7,7 +7,7 @@ permalink: /lei/
 **Instituição:** UNINASSAU Campus Boa Viagem  
 **Curso:** Análise e Desenvolvimento de Sistemas  
 **Carga Horária:** 80h (40h Teórica e 40h Prática)  
-**Horário:** Quartas-feiras, 4h/aula  
+**Horário:** Quartas-feiras, 18h às 22h  
 **Professor:** Pedro Rodolfo Gomes de Souza  
 **Contato:** eu@prgsouza.com.br  
 
