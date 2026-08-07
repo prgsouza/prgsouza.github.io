@@ -43,7 +43,7 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 | Data | Tema da Aula | Material |
 | :--- | :--- | :---: |
 | 12/08/2026 | Apresentação da Disciplina; Introdução à Fábrica de Software | [Acessar](/aulas/lei/aula01-introducao.pdf) |
-| 19/08/2026 | Análise Estratégica e Análise de Viabilidade | [Acessar](/aulas/lei/aula02-analise) |
+| 19/08/2026 | Análise Estratégica e Análise de Viabilidade | [Acessar](/aulas/lei/aula02-analise.pdf) |
 | 26/08/2026 | Introdução ao PMBOK | [Acessar](/aulas/lei/aula03-pmbok.pdf) |
 | 02/09/2026 | Plano de Gerenciamento de Escopo | [Acessar](/aulas/lei/aula03-escopo.pdf) |
 | 09/09/2026 | Plano de Gerenciamento do Tempo | [Acessar](/aulas/lei/aula04-tempo.pdf) |
