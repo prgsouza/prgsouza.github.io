@@ -42,22 +42,31 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 
 | Data | Tema da Aula | Material |
 | :--- | :--- | :---: |
-| 12/08/2026 | Apresentação da Disciplina; Introdução à Fábrica de Software | [Acessar](/aulas/lei/aula01-introducao.pdf) |
-| 19/08/2026 | Análise Estratégica e Análise de Viabilidade | [Acessar](/aulas/lei/aula02-analise.pdf) |
-| 26/08/2026 | Introdução ao PMBOK | [Acessar](/aulas/lei/aula03-pmbok.pdf) |
-| 02/09/2026 | Plano de Gerenciamento de Escopo | [Acessar](/aulas/lei/aula03-escopo.pdf) |
-| 09/09/2026 | Plano de Gerenciamento do Tempo | [Acessar](/aulas/lei/aula04-tempo.pdf) |
-| 16/09/2026 | Plano de Gerenciamento de Custos | [Acessar](/aulas/lei/aula05-custos.pdf) |
-| 23/09/2026 | Plano de Gerenciamento da Qualidade | [Acessar](/aulas/lei/aula06-qualidade.pdf) |
-| 30/09/2026 | Revisão para Primeira Avaliação  | [Acessar](/aulas/lei/revisao-prova01.pdf) |
+| 12/08/2026 | Apresentação da Disciplina; | [Acessar](/aulas/lei/aula01-introducao.pdf) |
+| 19/08/2026 | Introdução à Fábrica de Software | [Acessar](/aulas/lei/aula01-introducao.pdf) |
+| 26/08/2026 | Análise Estratégica | [Acessar](/aulas/lei/aula02-analise.pdf.pdf) |
+| 02/09/2026 | Status Report 1 | # |
+| 09/09/2026 | Análise de Viabilidade | [Acessar](/aulas/lei/aula02-analise.pdf) |
+| 16/09/2026 | Status Report 2 | # |
+| 23/09/2026 | Introdução ao PMBOK | [Acessar](/aulas/lei/aula03-pmbok.pdf) |
+| 30/09/2026 | Status Report 3 + Revisão para Primeira Avaliação  | # |
 | **07/10/2026** | **PRIMEIRA AVALIAÇÃO** (Unidades I e II) | - |
-| 14/10/2026 | Plano de Gerenciamento de Recursos Humanos | [Acessar](/aulas/lei/aula07-rh.pdf) |
-| 21/10/2026 | Plano de Gerenciamento das Comunicações | [Acessar](/aulas/lei/aula08-comunicacoes.pdf) |
-| 28/10/2026 | Plano de Gerenciamento de Riscos | [Acessar](/aulas/lei/aula09-riscos.pdf) |
-| 04/11/2026 | Plano de Gerenciamento de Aquisições | [Acessar](/aulas/lei/aula10-aquisicoes.pdf) |
-| 11/11/2026 | Aplicação em Projeto Prático: Conceitos e estudos de caso históricos de Fábrica de Software | [Acessar](/aulas/lei/aula11-integracao-final.pdf) |
-| 18/11/2026 | Aplicação em Projeto Prático : Frameworks e modelos de avaliação de fábricas de software | [Acessar](/aulas/lei/aula12-simulacao.pdf) |
-| 25/11/2026 | Revisão para Segunda Avaliação | [Acessar](/aulas/lei/revisao-prova02.pdf) |
+| 14/10/2026 | Escopo, EAP e Arquitetura técnica no PMBOK | [Acessar](#) |
+| 21/10/2026 | Gestão de Custos, Sprints e Qualidade (QA) | [Acessar](#) |
+| 28/10/2026 | Status Report 4 + Gestão de RH e Comunicação | [Acessar](#) |
+| 04/11/2026 | Gestão de Riscos e Aquisições | [Acessar](#) |
+| 11/11/2026 | Aplicação em Projeto Prático: Conceitos e estudos de caso históricos de Fábrica de Software | [Acessar](#) |
+| 18/11/2026 | Aplicação em Projeto Prático : Frameworks e modelos de avaliação de fábricas de software | [Acessar](#) |
+| 25/11/2026 | Revisão para Segunda Avaliação | # |
 | **02/12/2026** | **2ª AVALIAÇÃO DO SEMESTRE** (Todo assunto) | - |
 | **16/12/2026** | **2ª CHAMADA** (Todo assunto) | - |
 | **23/12/2026** | **PROVA FINAL** (Todo assunto) | - |
+
+---
+
+## Notas dos Status Report
+[Acessar](https://docs.google.com/spreadsheets/d/1KwcviQfgkbq92T4xVREkKiUfvmVzEnB-fZFIM20XkhE/edit?usp=sharing)
+Método avaliativo do Projeto:
+* **5 Status Reports (0 a 1 cada):** Peso 0,4 por Status Report (Total: 2,0 pontos)
+* **1 Entrega Final (0 a 1):** Peso 3,0 (Total: 3,0 pontos)
+**Total do Projeto:** 5,0 pontos
