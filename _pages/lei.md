@@ -57,21 +57,21 @@ ____
 | 12/08/2026 | Apresentação da Disciplina; | [Acessar](/aulas/lei/aula01-introducao.pdf) |
 | 19/08/2026 | Introdução à Fábrica de Software | [Acessar](/aulas/lei/aula01-introducao.pdf) |
 | 26/08/2026 | Análise Estratégica | [Acessar](/aulas/lei/aula02-analise.pdf.pdf) |
-| 02/09/2026 | Status Report 1 | # |
+| 02/09/2026 | Status Report 1
 | 09/09/2026 | Análise de Viabilidade | [Acessar](/aulas/lei/aula02-analise.pdf) |
-| 16/09/2026 | Status Report 2 | # |
+| 16/09/2026 | Status Report 2 
 | 23/09/2026 | Introdução ao PMBOK | [Acessar](/aulas/lei/aula03-pmbok.pdf) |
-| 30/09/2026 | Status Report 3 + Revisão para Primeira Avaliação  | # |
-| **07/10/2026** | **PRIMEIRA AVALIAÇÃO** (Unidades I e II) | - |
-| 14/10/2026 | Escopo, EAP e Arquitetura técnica no PMBOK |  |
+| 30/09/2026 | Status Report 3 + Revisão para Primeira Avaliação 
+| **07/10/2026** | **PRIMEIRA AVALIAÇÃO** (Unidades I e II) 
+| 14/10/2026 | Escopo, EAP e Arquitetura técnica no PMBOK | |
 | 21/10/2026 | Gestão de Custos, Sprints e Qualidade (QA) | |
 | 28/10/2026 | Status Report 4 + Gestão de RH e Comunicação |  |
-| 04/11/2026 | Gestão de Riscos e Aquisições | [Acessar](#) |
+| 04/11/2026 | Gestão de Riscos e Aquisições |  |
 | 11/11/2026 | Aplicação em Projeto Prático: Conceitos e estudos de caso históricos de Fábrica de Software | |
-| 18/11/2026 | Aplicação em Projeto Prático : Frameworks e modelos de avaliação de fábricas de software | [|
-| 25/11/2026 | Revisão para Segunda Avaliação | # |
-| **02/12/2026** | **2ª AVALIAÇÃO DO SEMESTRE** (Todo assunto) | - |
-| **16/12/2026** | **2ª CHAMADA** (Todo assunto) | - |
-| **23/12/2026** | **PROVA FINAL** (Todo assunto) | - |
+| 18/11/2026 | Aplicação em Projeto Prático : Frameworks e modelos de avaliação de fábricas de software | |
+| 25/11/2026 | Revisão para Segunda Avaliação
+| **02/12/2026** | **2ª AVALIAÇÃO DO SEMESTRE** (Todo assunto) 
+| **16/12/2026** | **2ª CHAMADA** (Todo assunto)
+| **23/12/2026** | **PROVA FINAL** (Todo assunto) 
 
 ---
