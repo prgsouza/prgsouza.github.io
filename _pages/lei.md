@@ -36,6 +36,17 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 * **Reprovação Direta:** Notas abaixo de 4,0 causam reprovação automática.
 * **Aprovação Pós-Final:** Nota Final maior ou igual a 5,0 garante a aprovação. Nota Final abaixo de 5,0 causa reprovação.
 
+## Notas da AV1
+[Acessar](https://docs.google.com/spreadsheets/d/1KwcviQfgkbq92T4xVREkKiUfvmVzEnB-fZFIM20XkhE/edit?usp=sharing)
+Método avaliativo do Projeto:
+* **5 Status Reports (0 a 1 cada):** Peso 0,4 por Status Report (Total: 2,0 pontos)
+* **1 Entrega Final (0 a 1):** Peso 3,0 (Total: 3,0 pontos)
+**Total do Projeto:** 5,0 pontos
+**Nota da 1ª Prova:** 5,0 pontos
+**Nota da AV1:** Até 10 pontos
+
+____
+
 ---
 
 ## 📅 Calendário de Aulas (2026.2)
@@ -51,22 +62,15 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 | 23/09/2026 | Introdução ao PMBOK | [Acessar](/aulas/lei/aula03-pmbok.pdf) |
 | 30/09/2026 | Status Report 3 + Revisão para Primeira Avaliação  | # |
 | **07/10/2026** | **PRIMEIRA AVALIAÇÃO** (Unidades I e II) | - |
-| 14/10/2026 | Escopo, EAP e Arquitetura técnica no PMBOK | [Acessar](#) |
-| 21/10/2026 | Gestão de Custos, Sprints e Qualidade (QA) | [Acessar](#) |
-| 28/10/2026 | Status Report 4 + Gestão de RH e Comunicação | [Acessar](#) |
+| 14/10/2026 | Escopo, EAP e Arquitetura técnica no PMBOK |  |
+| 21/10/2026 | Gestão de Custos, Sprints e Qualidade (QA) | |
+| 28/10/2026 | Status Report 4 + Gestão de RH e Comunicação |  |
 | 04/11/2026 | Gestão de Riscos e Aquisições | [Acessar](#) |
-| 11/11/2026 | Aplicação em Projeto Prático: Conceitos e estudos de caso históricos de Fábrica de Software | [Acessar](#) |
-| 18/11/2026 | Aplicação em Projeto Prático : Frameworks e modelos de avaliação de fábricas de software | [Acessar](#) |
+| 11/11/2026 | Aplicação em Projeto Prático: Conceitos e estudos de caso históricos de Fábrica de Software | |
+| 18/11/2026 | Aplicação em Projeto Prático : Frameworks e modelos de avaliação de fábricas de software | [|
 | 25/11/2026 | Revisão para Segunda Avaliação | # |
 | **02/12/2026** | **2ª AVALIAÇÃO DO SEMESTRE** (Todo assunto) | - |
 | **16/12/2026** | **2ª CHAMADA** (Todo assunto) | - |
 | **23/12/2026** | **PROVA FINAL** (Todo assunto) | - |
 
 ---
-
-## Notas dos Status Report
-[Acessar](https://docs.google.com/spreadsheets/d/1KwcviQfgkbq92T4xVREkKiUfvmVzEnB-fZFIM20XkhE/edit?usp=sharing)
-Método avaliativo do Projeto:
-* **5 Status Reports (0 a 1 cada):** Peso 0,4 por Status Report (Total: 2,0 pontos)
-* **1 Entrega Final (0 a 1):** Peso 3,0 (Total: 3,0 pontos)
-**Total do Projeto:** 5,0 pontos
