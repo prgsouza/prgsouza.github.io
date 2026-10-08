@@ -40,10 +40,10 @@ O processo avaliativo considerará a frequência e o desempenho do aluno.
 Método avaliativo do Projeto:
 * **5 Status Reports (0 a 1 cada):** Peso 0,4 por Status Report (Total: 2,0 pontos)
 * **1 Entrega Final (0 a 1):** Peso 3,0 (Total: 3,0 pontos)
-**Total do Projeto:** 5,0 pontos
-**Nota da 1ª Prova:** 5,0 pontos
-**Nota da AV1:** Até 10 pontos
-[Acessar Notas do Projeto + Prova 1](https://docs.google.com/spreadsheets/d/1KwcviQfgkbq92T4xVREkKiUfvmVzEnB-fZFIM20XkhE/edit?usp=sharing)
+* **Total do Projeto:** 5,0 pontos
+* **Nota da 1ª Prova:** 5,0 pontos
+* **Nota da AV1:** Até 10 pontos
+* [Acessar Notas do Projeto + Prova 1](https://docs.google.com/spreadsheets/d/1KwcviQfgkbq92T4xVREkKiUfvmVzEnB-fZFIM20XkhE/edit?usp=sharing)
 
 
 ____
