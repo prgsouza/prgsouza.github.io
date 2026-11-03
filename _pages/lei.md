@@ -65,10 +65,10 @@ ____
 | **07/10/2026** | **PRIMEIRA AVALIAÇÃO** (Unidades I e II) 
 | 14/10/2026 | Princípios do PMBOK e Domínios de Desempenho | [Acessar](/aulas/lei/aula03-pmbok.pdf) |
 | 21/10/2026 | Artefatos, Processos e Áreas de Conhecimento | [Acessar](/aulas/lei/aula03-pmbok.pdf) |
-| 28/10/2026 | Status Report 4 + Gerenciamento de Escopo, Tempo e Custos |  |
-| 04/11/2026 | Gerenciamento de Qualidade, Recursos Humanos e Comunicações |  |
-| 11/11/2026 | Status Report 5 + Gerenciamento de Riscos e Aquisições | |
-| 18/11/2026 | Frameworks e modelos de avaliação de fábricas de software | |
+| 28/10/2026 | Gestão de Projetos - Gestão de Crise | [Acessar](https://www.netflix.com/title/262866) |
+| 04/11/2026 | Status Report 4 + Gerenciamento de Escopo, Tempo e Custos |  |
+| 11/11/2026 | Gerenciamento de Qualidade, Recursos Humanos e Comunicações | |
+| 18/11/2026 | Gerenciamento de Riscos e Aquisições | |
 | 25/11/2026 | Apresentação Final do Projeto + Revisão para Segunda Avaliação 
 | **02/12/2026** | **2ª AVALIAÇÃO DO SEMESTRE** (Todo assunto) 
 | **16/12/2026** | **2ª CHAMADA** (Todo assunto)
