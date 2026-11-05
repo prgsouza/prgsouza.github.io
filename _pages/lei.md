@@ -67,7 +67,7 @@ ____
 | 21/10/2026 | Artefatos, Processos e Áreas de Conhecimento | [Acessar](/aulas/lei/aula03-pmbok.pdf) |
 | 28/10/2026 | Gestão de Projetos - Gestão de Crise | [Acessar](https://www.netflix.com/title/262866) |
 | 04/11/2026 | Status Report 4 + Gerenciamento de Escopo, Tempo e Custos | [Acessar](/aulas/lei/aula04-gerenciamento1.pdf) |
-| 11/11/2026 | Gerenciamento de Qualidade, Recursos Humanos e Comunicações | |
+| 11/11/2026 | Gerenciamento de Qualidade, Recursos Humanos e Comunicações | [Acessar](/aulas/lei/aula05-gerenciamento2.pdf) |
 | 18/11/2026 | Gerenciamento de Riscos e Aquisições | |
 | 25/11/2026 | Apresentação Final do Projeto + Revisão para Segunda Avaliação 
 | **02/12/2026** | **2ª AVALIAÇÃO DO SEMESTRE** (Todo assunto) 
