@@ -56,7 +56,7 @@ ____
 | :--- | :--- | :---: |
 | 12/08/2026 | Apresentação da Disciplina; | [Acessar](/aulas/lei/aula01-introducao.pdf) |
 | 19/08/2026 | Introdução à Fábrica de Software | [Acessar](/aulas/lei/aula01-introducao.pdf) |
-| 26/08/2026 | Análise Estratégica | [Acessar](/aulas/lei/aula02-analise.pdf.pdf) |
+| 26/08/2026 | Análise Estratégica | [Acessar](/aulas/lei/aula02-analise.pdf) |
 | 02/09/2026 | Status Report 1
 | 09/09/2026 | Análise de Viabilidade | [Acessar](/aulas/lei/aula02-analise.pdf) |
 | 16/09/2026 | Status Report 2 
@@ -68,7 +68,7 @@ ____
 | 28/10/2026 | Gestão de Projetos - Gestão de Crise | [Acessar](https://www.netflix.com/title/262866) |
 | 04/11/2026 | Status Report 4 + Gerenciamento de Escopo, Tempo e Custos | [Acessar](/aulas/lei/aula04-gerenciamento1.pdf) |
 | 11/11/2026 | Gerenciamento de Qualidade, Recursos Humanos e Comunicações | [Acessar](/aulas/lei/aula05-gerenciamento2.pdf) |
-| 18/11/2026 | Gerenciamento de Riscos e Aquisições | |
+| 18/11/2026 | Gerenciamento de Riscos e Aquisições | [Acessar](/aulas/lei/aula06-gerenciamento3.pdf) |
 | 25/11/2026 | Apresentação Final do Projeto + Revisão para Segunda Avaliação 
 | **02/12/2026** | **2ª AVALIAÇÃO DO SEMESTRE** (Todo assunto) 
 | 09/12/2026 | Entrega das provas da 2ª Avaliação.
