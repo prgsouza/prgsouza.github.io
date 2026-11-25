@@ -62,14 +62,14 @@ ____
 | 16/09/2026 | Status Report 2 
 | 23/09/2026 | Introdução ao PMBOK | [Acessar](/aulas/lei/aula03-pmbok.pdf) |
 | 30/09/2026 | Status Report 3 + Revisão para Primeira Avaliação 
-| **07/10/2026** | **PRIMEIRA AVALIAÇÃO** (Unidades I e II) 
+| **07/10/2026** | **PRIMEIRA AVALIAÇÃO** (Unidades I e II)  |  [Acessar](/aulas/lei/prova01.pdf) |
 | 14/10/2026 | Princípios do PMBOK e Domínios de Desempenho | [Acessar](/aulas/lei/aula03-pmbok.pdf) |
 | 21/10/2026 | Artefatos, Processos e Áreas de Conhecimento | [Acessar](/aulas/lei/aula03-pmbok.pdf) |
 | 28/10/2026 | Gestão de Projetos - Gestão de Crise | [Acessar](https://www.netflix.com/title/262866) |
 | 04/11/2026 | Status Report 4 + Gerenciamento de Escopo, Tempo e Custos | [Acessar](/aulas/lei/aula04-gerenciamento1.pdf) |
 | 11/11/2026 | Gerenciamento de Qualidade, Recursos Humanos e Comunicações | [Acessar](/aulas/lei/aula05-gerenciamento2.pdf) |
 | 18/11/2026 | Gerenciamento de Riscos e Aquisições | [Acessar](/aulas/lei/aula06-gerenciamento3.pdf) |
-| 25/11/2026 | Apresentação Final do Projeto + Revisão para Segunda Avaliação 
+| 25/11/2026 | Apresentação Final do Projeto + Revisão para Segunda Avaliação | [Acessar](https://kahoot.it/solo?quizId=de54940d-64e3-468f-a18e-925faa0ae3c8) |
 | **02/12/2026** | **2ª AVALIAÇÃO DO SEMESTRE** (Todo assunto) 
 | 09/12/2026 | Entrega das provas da 2ª Avaliação.
 | **16/12/2026** | **2ª CHAMADA** (Todo assunto)
